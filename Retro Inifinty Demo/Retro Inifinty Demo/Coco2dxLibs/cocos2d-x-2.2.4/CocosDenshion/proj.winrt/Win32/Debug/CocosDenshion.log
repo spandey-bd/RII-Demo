@@ -1,0 +1,22 @@
+﻿Build started 7/15/2014 11:24:38 AM.
+     1>Project "E:\Retro Inifinty Demo\Retro Inifinty Demo\Coco2dxLibs\cocos2d-x-2.2.4\CocosDenshion\proj.winrt\CocosDenshion.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I../include /I"E:\Retro Inifinty Demo\Retro Inifinty Demo\Coco2dxLibs\cocos2d-x-2.2.4\CocosDenshion\proj.winrt\\" /I"Generated Files\\" /IWin32\Debug\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /GL /D WINRT /D _WINRT /D _EXPORT_DLL_ /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt ..\winrt\Audio.cpp ..\winrt\MediaStreamer.cpp ..\winrt\SimpleAudioEngine.cpp
+         Audio.cpp
+         MediaStreamer.cpp
+         SimpleAudioEngine.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.dll" /INCREMENTAL:NO /NOLOGO xaudio2.lib xinput.lib mfcore.lib mfplat.lib mfreadwrite.lib mfuuid.lib /MANIFEST:NO /DEBUG /PDB:"E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.pdb" /SUBSYSTEM:CONSOLE /LTCG /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.winmd" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.lib" /MACHINE:X86 /DLL Win32\Debug\Audio.obj
+         Win32\Debug\MediaStreamer.obj
+         Win32\Debug\SimpleAudioEngine.obj
+            Creating library E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.lib and object E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.exp
+         Generating code
+         Finished generating code
+         CocosDenshion.vcxproj -> E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.dll
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\MakePri.exe New -ProjectRoot "E:\Retro Inifinty Demo\Retro Inifinty Demo\Coco2dxLibs\cocos2d-x-2.2.4\CocosDenshion\proj.winrt\\" -ConfigXml Win32\Debug\priconfig.xml -OutputFile "E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\CocosDenshion\CocosDenshion.pri" -IndexName CocosDenshion -Verbose -Overwrite  
+     1>Done Building Project "E:\Retro Inifinty Demo\Retro Inifinty Demo\Coco2dxLibs\cocos2d-x-2.2.4\CocosDenshion\proj.winrt\CocosDenshion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.83
