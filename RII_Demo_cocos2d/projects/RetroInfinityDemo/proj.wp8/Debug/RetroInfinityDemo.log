@@ -1,0 +1,55 @@
+﻿Build started 7/22/2014 4:06:34 PM.
+     1>Project "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\RetroInfinityDemo.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\wp8" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\winrt" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\Classes" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\third_party\winrt\angle\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\CocosDenshion\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\extensions" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\extensions\network" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\third_party\wp8\libcurl" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\external" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\external\libwebsockets\wp8\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\external\chipmunk\include\chipmunk" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\kazmath\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\\" /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D WP8 /D _WP8 /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Debug\RetroInfinityDemo.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /wd4453 /FIpch.h /FU"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.winmd" /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+     1>d:\retro infinity\coco setups\cocos2d-x-2.2.4\extensions\cocostudio\json\cocoloader.h(72): warning C4018: '<' : signed/unsigned mismatch
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\wp8" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\winrt" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\Classes" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\third_party\winrt\angle\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\CocosDenshion\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\extensions" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\extensions\network" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\platform\third_party\wp8\libcurl" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\external" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\external\libwebsockets\wp8\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\external\chipmunk\include\chipmunk" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\..\..\..\cocos2dx\kazmath\include" /I"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\\" /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D WP8 /D _WP8 /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\RetroInfinityDemo.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /wd4453 /FIpch.h /FU"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.winmd" /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt ..\Classes\AppDelegate.cpp ..\Classes\RetroInfinity.cpp RetroInfinityDemo.cpp
+         AppDelegate.cpp
+         RetroInfinity.cpp
+         RetroInfinityDemo.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\RetroInfinityDemo\RetroInfinityDemo.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\cocos2dx\platform\third_party\wp8\libraries\x86 d3d11.lib libEGL_phone.lib libGLESv2_phone.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\RetroInfinityDemo\RetroInfinityDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /WINMD:NO /WINMDFILE:"D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\RetroInfinityDemo\RetroInfinityDemo.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /IGNORE:4264 Debug\AppDelegate.obj
+         Debug\RetroInfinity.obj
+         Debug\RetroInfinityDemo.obj
+         Debug\pch.obj
+         "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\libcocos2d\libcocos2d.lib"
+         "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.lib"
+         "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\libExtensions\libExtensions.lib"
+         "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\Box2D\libBox2D.lib"
+         "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\chipmunk\libchipmunk.lib"
+     1>AppDelegate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         RetroInfinityDemo.vcxproj -> D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\WP8\Win32\Debug\RetroInfinityDemo\RetroInfinityDemo.exe
+       XapPackager:
+         Begin Xap packaging
+         Creating file RetroInfinityDemo_Debug_Win32.xap
+         Adding WMAppManifest.xml
+         Adding RetroInfinityDemo.exe
+         Adding CocosDenshion.winmd
+         Adding CocosDenshion.dll
+         Adding Assets\ApplicationIcon.png
+         Adding Assets\AlignmentGrid.png
+         Adding Assets\Tiles\FlipCycleTileLarge.png
+         Adding Assets\Tiles\FlipCycleTileMedium.png
+         Adding Assets\Tiles\FlipCycleTileSmall.png
+         Adding Assets\Tiles\IconicTileMediumLarge.png
+         Adding Assets\Tiles\IconicTileSmall.png
+         Adding libcurl.dll
+         Adding libeay32.dll
+         Adding libEGL_phone.dll
+         Adding libGLESv2_phone.dll
+         Adding ssleay32.dll
+         Adding libwebsockets.dll
+         Adding Assets\Resources\ball.png
+         Adding Assets\Resources\CloseNormal.png
+         Adding Assets\Resources\CloseSelected.png
+         Adding Assets\Resources\fonts\arial.ttf
+         Adding Assets\Resources\fonts\Marker Felt.ttf
+         Adding Assets\Resources\HelloWorld.png
+         Adding libcocos2d.dll
+         Xap packaging completed successfully
+     1>Done Building Project "D:\Retro Infinity\Coco Setups\cocos2d-x-2.2.4\projects\RetroInfinityDemo\proj.wp8\RetroInfinityDemo.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.87
