@@ -1,9 +1,0 @@
-﻿Build started 7/15/2014 11:29:10 AM.
-     1>Project "E:\Retro Inifinty Demo\Retro Inifinty Demo\Coco2dxLibs\cocos2d-x-2.2.4\external\chipmunk\proj.winrt\chipmunk.vcxproj" on node 2 (Build target(s)).
-     1>Lib:
-         chipmunk.vcxproj -> E:\Retro Inifinty Demo\Retro Inifinty Demo\WinRT\Win32\Debug\chipmunk\libchipmunk.lib
-     1>Done Building Project "E:\Retro Inifinty Demo\Retro Inifinty Demo\Coco2dxLibs\cocos2d-x-2.2.4\external\chipmunk\proj.winrt\chipmunk.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.50
